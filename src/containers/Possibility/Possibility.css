@@ -63,7 +63,7 @@
     }
 
     .gpt3__possibility-image img {
-        width: unset;
+        width: 100%;
         height: unset;
     }
 
